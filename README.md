@@ -8,5 +8,6 @@ https://dosya.co/54hmu77xw6ng/workout_model_2024.h5.html
 2. h5 modeli github'ın izin verdiği dosya boyutunu geçtiği için https://dosya.co/54hmu77xw6ng/workout_model_2024.h5.html adresine yüklendi
 3. testing_workout_model ile gene Colabta test yapılabiliyor. Jupyter dosyaları bunlar. Fakat çalıştırdığımda doğru sonuca ulaşamadım. O yüzden Mediapipe kütüphanesi ile yapmaya çalıştım.
 4. Mediapipe kütüphanesi ile hareketleri tespit etmeye çalıştım.
+5. Pycharmda python 3.12 ile çalışıyor kodum. mediapipe_uygulaması.py kodunu çalıştırın. İmport dosyalarını indirin. Hareket seçip 15 saniye kamera açılmasını bekleyin. Hareketleri seçip yapılan hareketleri saydırabilirsiniz.
 
 
